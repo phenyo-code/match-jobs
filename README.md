@@ -72,6 +72,6 @@ Please ensure that your code adheres to the project's coding standards, and writ
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
-PDF-lib: Used for extracting text from PDF files.
-Mammoth: Used for extracting text from DOCX files.
-Framer Motion: Used for animations to enhance the user experience.   
+#### PDF-lib: Used for extracting text from PDF files.
+#### Mammoth: Used for extracting text from DOCX files.
+#### Framer Motion: Used for animations to enhance the user experience.   
