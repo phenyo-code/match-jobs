@@ -20,11 +20,11 @@ Before starting the project, make sure you have the following tools installed on
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/jobmatch.git
+   git clone https://github.com/phenyo-code/match-jobs.git
 
 2. Navigate to the project directory:
    ```bash
-   cd jobmatch
+   cd match-jobs
 
 3. Install the required dependencies:
    ```bash
