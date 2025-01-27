@@ -60,12 +60,11 @@ The match score indicates how well the keywords in your resume match those in th
 ## Contributing
 Contributions to JobMatch are welcome! To contribute:
 
-## Fork this repository.
-
-### Create a new branch (git checkout -b feature/your-feature).
-Make your changes and commit them (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/your-feature).
-Open a pull request to the main repository.
+1. Fork this repository.
+2. Create a new branch ```bash(git checkout -b feature/your-feature).
+3. Make your changes and commit them ```bash(git commit -am 'Add new feature').
+4. Push to the branch ```bash(git push origin feature/your-feature).
+5. Open a pull request to the main repository.
 Please ensure that your code adheres to the project's coding standards, and write tests if applicable.
 
 ## License
