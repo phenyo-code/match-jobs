@@ -25,21 +25,25 @@ Before starting the project, make sure you have the following tools installed on
 2. Navigate to the project directory:
 
 ```bash
-cd jobmatch
+  cd jobmatch
 
 3. Install the required dependencies:
 
 ```bash
-npm install
-or if you're using yarn:
+  npm install
+  or if you're using yarn:
 
 ```bash
-yarn install
-Start the development server:
+   yarn install
+
+
+## Start the development server:
 
 ```bash
-npm start
-or if you're using yarn:
+  npm start
+
+
+## or if you're using yarn:
 
 ```bash
 yarn start
