@@ -24,34 +24,24 @@ Before starting the project, make sure you have the following tools installed on
 
 2. Navigate to the project directory:
 
-bash
-Copy
-Edit
+```bash
 cd jobmatch
 
 3. Install the required dependencies:
 
-bash
-Copy
-Edit
+```bash
 npm install
 or if you're using yarn:
 
-bash
-Copy
-Edit
+```bash
 yarn install
 Start the development server:
 
-bash
-Copy
-Edit
+```bash
 npm start
 or if you're using yarn:
 
-bash
-Copy
-Edit
+```bash
 yarn start
 
 4. Open your browser and navigate to http://localhost:3000 to use the application.
