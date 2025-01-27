@@ -23,32 +23,23 @@ Before starting the project, make sure you have the following tools installed on
    git clone https://github.com/your-username/jobmatch.git
 
 2. Navigate to the project directory:
-
-```bash
-  cd jobmatch
+   ```bash
+   cd jobmatch
 
 3. Install the required dependencies:
-
-```bash
-  npm install
-  or if you're using yarn:
-
-```bash
-   yarn install
+   ```bash
+   npm install
 
 
-## Start the development server:
+4. Start the development server:
+   ```bash
+   npm start
 
-```bash
-  npm start
 
+5. Open your browser and navigate to
+   ## http://localhost:3000 to use the application.
 
-## or if you're using yarn:
-
-```bash
-yarn start
-
-4. Open your browser and navigate to http://localhost:3000 to use the application.
+   
 
 ## Usage
 
