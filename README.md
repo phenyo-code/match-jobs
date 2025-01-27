@@ -1,4 +1,4 @@
-# JobMatch - ATS Job Matcher
+# JobMatch
 
 ## Description
 JobMatch is an innovative web application designed to help job seekers and employers compare resumes to job descriptions. It allows users to upload their resumes (in PDF or DOCX format) and paste job descriptions to calculate a match score based on keyword overlap. The app highlights matching keywords in the resume, offering a simple yet powerful way to determine how well a resume aligns with a specific job description.
