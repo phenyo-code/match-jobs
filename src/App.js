@@ -67,10 +67,17 @@ function App() {
   };
 
   const extractKeywords = (text) => {
-    return text
+    // Regular expression to extract words and numbers with context
+    const numberRegex = /\b\d+(\+|\-)?\b(?:\s*(years?|yrs?|experience?))?/g;
+    const textWithNumbers = text.toLowerCase().match(numberRegex) || [];
+
+    const words = text
       .toLowerCase()
       .match(/\b\w+\b/g)
       ?.filter((word) => word.length > 2) || [];
+
+    // Combine words and numbers into the final list of keywords
+    return [...words, ...textWithNumbers];
   };
 
   return (
@@ -125,4 +132,3 @@ function App() {
 }
 
 export default App;
-
