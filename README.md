@@ -44,7 +44,7 @@ Before starting the project, make sure you have the following tools installed on
 
 ## Usage   
 
-#### Visit [jobMatch](https://match-jobs.vercel.app/)
+### Visit [jobMatch](https://match-jobs.vercel.app/)
 
 ### Paste the Job Description: 
 Paste the text of a job description into the provided text area.
