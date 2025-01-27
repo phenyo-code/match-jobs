@@ -53,7 +53,8 @@ Click the "Choose File" button to upload your resume in either PDF or DOCX forma
 ### Click 'Compare': 
 Once both the job description and resume are ready, click the "Compare" button.
 
-### View Results: After a brief processing time, the match score will be displayed along with highlighted keywords that match between the job description and your resume.
+### View Results: 
+After a brief processing time, the match score will be displayed along with highlighted keywords that match between the job description and your resume.
 The match score indicates how well the keywords in your resume match those in the job description. The highlighted text helps you identify areas for improvement.
 
 ## Contributing
