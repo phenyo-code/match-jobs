@@ -90,3 +90,98 @@ body {
   background-color: rgb(255, 255, 42);
   font-weight: bold;
 }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .ats-matcher {
+    padding: 15px;
+  }
+
+  .title {
+    font-size: 1.5rem;
+  }
+
+  .input-textarea {
+    font-size: 0.9rem;
+    padding: 8px;
+  }
+
+  .file-upload {
+    font-size: 0.9rem;
+    padding: 8px;
+  }
+
+  .compare-button {
+    font-size: 0.9rem;
+    padding: 8px 16px;
+  }
+
+  .results-container {
+    padding: 12px;
+  }
+
+  .match-score {
+    font-size: 1.2rem;
+  }
+
+  .highlighted-text {
+    font-size: 0.9rem;
+  }
+
+  /* Stack file input and button vertically on smaller screens */
+  .file-upload-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .compare-button {
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .ats-matcher {
+    padding: 10px;
+  }
+
+  .title {
+    font-size: 1.2rem;
+  }
+
+  .input-textarea {
+    font-size: 0.85rem;
+    padding: 6px;
+  }
+
+  .file-upload {
+    font-size: 0.85rem;
+    padding: 6px;
+  }
+
+  .compare-button {
+    font-size: 0.85rem;
+    padding: 6px 14px;
+  }
+
+  .results-container {
+    padding: 10px;
+  }
+
+  .match-score {
+    font-size: 1rem;
+  }
+
+  .highlighted-text {
+    font-size: 0.85rem;
+  }
+
+  /* Stack file input and button vertically on mobile screens */
+  .file-upload-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .compare-button {
+    margin-top: 10px;
+  }
+}
